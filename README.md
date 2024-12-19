@@ -1,2 +1,3 @@
 # Análise de Redes Sociais
-Disciplina eletiva pela USP, no curso de Sistemas de Informação. Optou-se por desenvolver um projeto de Detecção de Bots em Redes Sociais, com Revisão da Literatura, construção da base de dados (via API), estudos de grafos e algoritmos de aprendizado de máquina.
+Projeto de Detecção de Bots em Redes Sociais.
+Extração de Dados da API (rede Bluesky), Tratamento e Manipulação dos Dados, Grafos da Rede e Algoritmos de Aprendizado de Máquina (supervisionados).
